@@ -1,6 +1,18 @@
-запустить: yarn dev
+### npm install --global yarn
 
-?mt слово 
-?mb слово
+### yarn add tmi.js
+
+### yarn add nodemon
+
+#
+
+### запустить бота: yarn dev
+
+#
+### ?mt слово 
+
+### ?mb слово
+
+### ?ping
 
 
